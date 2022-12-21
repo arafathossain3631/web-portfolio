@@ -48,6 +48,9 @@ p{
         box-shadow: 10px 10px 30px gray;
         border-radius:7px ;
         height: 200px;}
+        .box-web{
+            text-align: center;
+        }
         
     #full-stack{
         border-left: 7px solid;
